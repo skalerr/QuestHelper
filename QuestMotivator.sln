@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestMotivator", "QuestMotivator\QuestMotivator.csproj", "{19880299-3CE0-4433-9FD9-8D9171980F4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorTemplates1", "MudBlazorTemplates1\MudBlazorTemplates1.csproj", "{AF30192B-CB09-4A18-B8F1-FFB5B0B41E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{19880299-3CE0-4433-9FD9-8D9171980F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19880299-3CE0-4433-9FD9-8D9171980F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19880299-3CE0-4433-9FD9-8D9171980F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF30192B-CB09-4A18-B8F1-FFB5B0B41E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF30192B-CB09-4A18-B8F1-FFB5B0B41E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF30192B-CB09-4A18-B8F1-FFB5B0B41E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF30192B-CB09-4A18-B8F1-FFB5B0B41E16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
